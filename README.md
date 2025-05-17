@@ -1,5 +1,5 @@
 # React + Vite
-website: https://anshajvats.github.io/Ethics_Blog/
+website: [https://anshajvats.github.io/Ethics_Blog/](https://anshajvats.github.io/Phil-101/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
